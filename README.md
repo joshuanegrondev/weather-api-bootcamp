@@ -1,8 +1,3 @@
-
-
-### How It's Made:
-#### Tech Used: HTML5, CSS3, JavaScript
-
 # 🌦 Project: Weather API
 
 The goal of this project is to enable the user to enter a city + country and returns the temperature in Fahrenheit.

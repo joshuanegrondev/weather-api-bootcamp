@@ -15,7 +15,7 @@ The goal of this project is to enable the user to enter a city + country and ret
 
 **Tech used:** HTML5, CSS3, and JavaScript
 
-In this project I used the Document interface and manipulated the DOM to achieve my goal. I used several Document methods to grab elements from the DOM tree. Then, I used a function along with Fetch API to fetch data to openweathermap api in JSON, and then parsed the data. After that, several document methods are responsible for manipulating DOM elements and achieve the necessary result.
+In this project, I used the Document interface and manipulated the DOM to achieve my goal. I used several Document methods to grab elements from the DOM tree. Then, I used a function along with Fetch API to fetch data to OpenWeatherMap API in JSON and then parsed the data. After that, several document methods are responsible for manipulating DOM elements and achieve the necessary result.
 
 ## Lessons Learned:
 
